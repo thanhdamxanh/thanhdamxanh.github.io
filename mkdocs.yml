@@ -1,6 +1,8 @@
 site_name: Thanh đạm xanh
 site_description: Một trang về lối sống tiết kiệm (frugal) + tối giản, cũng như không rác thải (zero-waste) và chống chủ nghĩa tiêu dùng (anti-consumerism)
 site_author: duykhanh471
+repo_url: https://github.com/thanhdamxanh/thanhdamxanh.github.io
+repo_name: Cùng xây dựng Khu học mở
 
 nav:
   - 'Trang chủ': 'index.md'
