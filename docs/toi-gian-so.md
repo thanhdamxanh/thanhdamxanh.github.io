@@ -15,8 +15,6 @@ Khi nói đến lối sống tối giản, chúng ta không chỉ nói về mộ
 
 Nhiều người thường có thói quen lưu các tập tin ra ngoài màn hình để có thể dễ dàng truy cập khi cần thiết. Nhưng hãy nhớ là đừng lưu quá nhiều và quá ồ ạt nhé! Bạn nên cân nhắc chỉ lưu những tập tin quan trọng và xóa chúng đi nếu không còn quan trọng hoặc chuyển vào các ổ dữ liệu trong máy.
 
-![](https://i.imgur.com/BV8bPzZ.jpg?resize=1080%2C675&ssl=1)
-
 Ngày trước, hồi đi làm, tôi rất lười chọn vị trí lưu trữ tài liệu trước khi tải về mà cứ thế lưu luôn lên màn hình máy tính để đỡ phải lục tìm lâu la, mất thời gian. Vậy là theo thời gian, 2 chiếc màn hình trước mặt ngày càng chi chít những file ảnh, video, pdf các kiểu (máy tính của tôi ở công ty được gắn hai màn hình để hỗ trợ việc viết bài, chỉnh sửa hình ảnh, video).
 
 Thế nên cứ mỗi buổi sáng đến công ty, vừa mở máy tính lên đã thấy ngột ngạt rồi, chưa kể đến việc tìm tài liệu mình cần những lúc ấy chẳng khác gì mò kim đáy biển.
@@ -39,13 +37,13 @@ Tốt hơn hết là chỉ tải những phần mềm mình thực sự thấy c
 
 Ngoài ra, việc dành thời gian gỡ bỏ những phần mềm, chương trình cũ hay không dùng đến cũng rất quan trọng. Vì nó sẽ giúp giải phóng bộ nhớ hệ thống, nâng cao hiệu suất hoạt động cho máy tính. Nhớ là phải gỡ bỏ đó nhé, vì nếu bạn chỉ xóa shortcuts thôi thì sẽ chẳng có tác dụng gì cả.
 
-## **Điện thoại, máy tính bảng**
+## Điện thoại, máy tính bảng
 
 ### Màn hình điện thoại
 
 Giống như màn hình desktop, màn hình điện thoại, Ipad cũng thường xuyên được dọn dẹp bằng cách nhóm những ứng dụng liên quan lại với nhau vào cùng một thư mục, để mắt có thêm không gian trống mà thở, mà nhìn. Một màn hình với đầy những ứng dụng khác nhau sẽ chỉ khiến bản thân thêm mệt mỏi, không tốt cho mắt mà lại mất thời gian lục tìm.
 
-![](https://i.imgur.com/WqMqi0t.jpg?resize=355%2C630&ssl=1)
+![](assets/toi-gian-so/2.png)
 
 ### Các ứng dụng và thông báo
 
@@ -55,7 +53,7 @@ Cứ sau một thời gian, tôi lại ngó qua một lượt tất cả mọi �
 
 Ngoài ra, hầu hết các ứng dụng đều cho phép người dùng tùy chọn chế độ thông báo (Notifications), nên khi tải chúng về, tôi lại mò vào chỗ Cài đặt để thiết lập lại tần suất và thời gian nhận tin cập nhật. Cái nào thấy không cần thiết thì tắt hẳn luôn, đỡ phải nghe tiếng tintin cứ mỗi vài giờ đồng hồ.
 
-![](https://i.imgur.com/vkUYWrF.jpg?resize=354%2C629&ssl=1)
+![](assets/toi-gian-so/3.png)
 
 ### Các tập tin video, âm thanh, hình ảnh
 
@@ -95,7 +93,7 @@ Email cũng là một phần không thể thiếu trong công cuộc dọn dẹp
 
 Tôi có dùng Google Drive và Dropbox để lưu trữ tài liệu của mình vì tính tiện lợi và an toàn của chúng. Tương tự như với máy tính, dữ liệu trên các ứng dụng này cũng được tôi tổ chức thành các thư mục để thuận tiện cho việc truy cập. Đồng thời, những tài liệu không còn cần thiết cũng được xóa đi, nhường chỗ cho tài liệu mới. Trong Google Drive có mục “Shared with me”, đây là nơi lưu trữ những tài liệu mà người khác chia sẻ và chúng không thể được tổ chức thành các thư mục lớn, nhìn rất khó chịu. Nên khi xử lý phần này, tôi hoặc là thêm chúng vào Drive của mình rồi phân thành nhóm hoặc xóa đi nếu thấy không cần thiết.
 
-![](https://i.imgur.com/t5AkyR3.jpg?resize=1000%2C562&ssl=1)
+![](assets/toi-gian-so/4.png)
 
 ### Mạng xã hội
 

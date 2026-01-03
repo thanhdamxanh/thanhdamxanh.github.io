@@ -3,7 +3,7 @@
 !!! info "Nguồn bài viết" 
     [30 ngày tập thiền, ăn chay và duy trì những thói quen tốt](https://spiderum.com/bai-dang/30-ngay-tap-thien-an-chay-va-duy-tri-nhung-thoi-quen-tot-q2z)
 
-![Meditation for Beginners (And Why You Might Want to Give it a Try)](https://www.elegantthemes.com/blog/wp-content/uploads/2018/11/learn-to-meditate.png)
+![Meditation for Beginners (And Why You Might Want to Give it a Try)](assets/30-ngay/learn-to-meditate.png)
 
 Ảnh: Internet
 

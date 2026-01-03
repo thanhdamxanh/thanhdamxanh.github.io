@@ -18,17 +18,17 @@ Và chất xơ thì nên ăn nhiều vào buổi tối, để việc nghỉ ngơ
 
 Cách chế biến nên là luộc, hấp, áp chảo … thay vì chiên rán nhiều dầu mỡ. Theo nghiên cứu mà mình đã đọc ở đâu đó, thì hấp là phương pháp giữ lại nhiều chất dinh dưỡng nhất.
 
-![](http://life30.vn/wp-content/uploads/2018/09/thuc_duong_.jpg)  
+![](assets/an-uong-toi-gian/thuc_duong_.jpg)  
 
-![](http://life30.vn/wp-content/uploads/2018/09/purple-sweet-potato_1205-761.jpg)  
+![](assets/an-uong-toi-gian/khoai-lang.png)  
 
-![](http://life30.vn/wp-content/uploads/2018/09/bowl-with-yogurt-cereals-and-raspberries_1220-248.jpg)
+![](assets/an-uong-toi-gian/bowl-with-yogurt-cereals-and-raspberries_1220-248.jpg)
 
 Nhóm tinh bột mà mình hay nạp vào người nhất gồm: gạo lứt, khoai lang, yến mạch. 
 
 Gạo lứt nấu cơm như bình thường, khoai lang thường chỉ cần luộc, và yến mạch thì mình cho nước nóng và xay cùng chuối.
 
-![](http://life30.vn/wp-content/uploads/2018/09/griddled-chicken_1147-399.jpg)
+![](assets/an-uong-toi-gian/griddled-chicken_1147-399.jpg)
 
 Nhóm protein yêu thích của mình là ức gà và cá hồi. Ngoài ra còn có bột đậu xay, thăn lợn, thịt bò.
 
@@ -36,7 +36,7 @@ Mình thường chế biến thịt gà bằng cách luộc lên và ăn cùng t
 
 Đối với thịt lợn, mình thường cũng chỉ luộc. Tuy nhiên sẽ có lúc xào hoặc hấp. Còn thịt bò, thì phải xào là chắc rồi. 
 
-![](http://life30.vn/wp-content/uploads/2018/09/four-delicious-summer-smoothies_23-2147810578.jpg)
+![](assets/an-uong-toi-gian/four-delicious-summer-smoothies_23-2147810578.jpg)
 
 Đối với nhóm xơ, món mình hay làm là các thể loại rau luộc và sa lát. Thi thoảng có xào rau để đổi món. 
 

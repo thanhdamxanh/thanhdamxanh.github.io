@@ -124,7 +124,7 @@ Khi đã biết đọc tiền, có công cụ hỗ trợ theo dõi thu - chi, th
 
 Cái này Money Lover có xịn luôn.
 
-![img_0](https://images.spiderum.com/sp-images/d84a69406ce411ea8d13d1f6d818e360.jpg)
+![img_0](assets/quan-ly-chi-tieu/d84a69406ce411ea8d13d1f6d818e360.jpg)
 
 _Báo cáo thu chi xịn xò của Money Lover_
 

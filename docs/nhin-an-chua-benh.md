@@ -5,7 +5,7 @@
 
 _Nhịn ăn từ lâu đã được coi là một liệu pháp chữa bệnh tự nhiên. Tuy nhiên không phải ai cũng đủ dũng khí để thực hiện. Và cũng không có quá nhiều bằng chứng khoa học để giải thích cho phương pháp này. Nghiên cứu về cơ chế tự thực (_[_autophagy_](https://spiderum.com/bai-dang/Autophagy-chiu-trach-nhiem-cho-su-doi-moi-cua-co-the-f93)_) đoạt giải Nobel về y sinh năm 2016 cho thấy cơ thể của chúng ta có thể tự chữa lành. Quá trình chữa lành này được hỗ trợ nếu chúng ta cho cơ thể nghỉ ngơi hoàn toàn tức là nhịn ăn. Mối liên hệ này khiến cho các nhà khoa học bắt đầu tìm hiểu kỹ càng hơn về liệu pháp nhịn ăn chữa bệnh. Dưới đây tôi dịch một bài viết về liệu pháp nhịn ăn ngắt quãng và lợi ích của nó trong việc chữa bệnh cũng như duy trì một sức khỏe lành mạnh của tác giả Andreas Michalsen (ông là giáo sư tại trung tâm y tế Đại học Charité-Berlin). Theo tôi phương pháp này rất dễ áp dụng và có thể thực hiện nhằm ngăn ngừa các bệnh mãn tính._ 
 
-![img_0](https://s.wsj.net/public/resources/images/B3-EQ167_FASTIN_LS_20190731175907.jpg)
+![img_0](assets/nhin-an-chua-benh/img_0.png)
 
 Nhịn ăn là một trong những xu hướng giảm cân phổ biến nhất trong những năm gần đây. Được xác nhận bởi những ngôi sao hạng A và là chủ đề của một loạt các cuốn sách bán chạy nhất, đây là chế độ ăn kiêng đứng thứ 8 trong danh sách tìm kiếm của Google tại Mỹ trong năm 2018. 
 

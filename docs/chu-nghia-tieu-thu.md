@@ -7,7 +7,7 @@ _Dạo gần đây trên News Feed của mình thường xuất hiện những b
 
 ## 1. Chủ nghĩa tiêu thụ là gì?
 
-![](https://images.spiderum.com/sp-images/e5f30e600baa11ec929d4505f162a47e.jpeg)
+![](assets/chu-nghia-tieu-thu/e5f30e600baa11ec929d4505f162a47e.jpeg)
 
 Thuật ngữ “xã hội tiêu dùng” (consumer society) xuất hiện từ sau Thế Chiến Thứ Hai, khi chủ nghĩa tư bản lên ngôi ở các nước Phương Tây. Thuật ngữ này có thể xuất hiện vào sau Thế Chiến Thứ Hai nhưng lối sống này thì đã tồn tại khá lâu trước đây. Nếu lội ngược dòng lịch sử thì sẽ thấy lối sống tiêu thụ, mua sắm, vui chơi, giải trí này thường được giới quý tộc, quan lại, vua chúa qua các giai đoạn đều tôn sùng. Nếu bạn thường xuyên xem phim cung đấu của nước láng giềng thì chắc hẳn cũng thấy rõ cuộc sống xa hoa trong Tử Cấm Thành, nhân vật tiêu biểu mình muốn nhắc đến là Thái Hậu Từ Hy, bà này thì khỏi cần bàn ăn thôi mà phải 100 món khác nhau, 2 bữa ăn nhẹ thì 40 đến 50 món, ít nhất phải bao gồm 20 đĩa thức ăn. Mỗi khi skincare thì 7749 bước, quần áo mặc thì đếm không nổi. Giới nhà giàu bây giờ còn thua xa. Lội thêm tí nữa sẽ thấy ở Ai Cập cổ đại, giới tinh hoa nơi đây tiêu tiền bằng cách xây kim tự tháp và ướp xác chứ họ không đi Babylon để shopping.
 
@@ -15,7 +15,7 @@ Trong quá khứ chỉ có giới nhà giàu mới có thể theo đuổi chủ 
 
 ## 2 Bản chất chủ nghĩa tiêu thụ
 
-![](https://images.spiderum.com/sp-images/12ec45300bab11ec929d4505f162a47e.jpeg)
+![](assets/chu-nghia-tieu-thu/12ec45300bab11ec929d4505f162a47e.jpeg)
 
 Có thể hiểu chủ nghĩa tiêu dùng từ nhiều góc độ. Theo Gabriel and Tim Lang (2006:6-7), có thể hiểu chủ nghĩa tiêu dùng từ 5 chiều kích:
 
@@ -35,7 +35,7 @@ Thứ tư, chủ nghĩa tiêu dùng  như một ý hệ chính trị (political
 
 Vào thế kỉ XXI, vai trò của người tiêu dùng quan trọng hơn bao giờ hết và là đã trở thành những " Thượng đế" (god-like figure) . Người tiêu dùng là người chọn lựa, là người mua nhưng cũng là người từ chối mua; là người sẽ hào hứng khoác lên mình sản phẩm hay từ chối dùng nó, là người giữ sản phẩm hay cho đi, là người cảm thấy tội lỗi hay nghi ngờ về đạo đức, là người khám phá và diễn giải, đọc và giải mã, là người sẽ yêu thích hay bàng quan với sản phẩm… Họ là người quyết định sản xuất, nuôi dưỡng sự sáng tạo, tạo ra dịch vụ mới trong tiến kinh tế phát triển, động cơ cho chính trị hiện đại, quyền lực để bảo vệ môi trường và tương lai của hành tinh (Gabriel & Lang 2006). Chính vì thế Gabriel và Lang (2006) mới sử dụng từ “unmanageable consumer” (người tiêu dùng không thể bị kiểm soát) để chỉ người tiêu dùng ở thế kỷ XXI. Dó đó, để nắm bắt tâm lý của người tiêu dùng các doanh nghiệp đã tạo ra hàng loạt sản phẩm mà marketing giả trân nhất chưa từng có, là phái nữ mình cũng như các chị em thích ăn nhưng không bao giờ muốn béo thế là Coca cola như thế nào đó đã thần giao cách cảm với chúng ta và một loại thức uống mới ra đời Coke Zero để dành cho chúng ta. Nhưng chúng lại gây cho chúng ta khá nhiều ảnh hưởng xấu và mình chỉ nêu một tác hại đó là uống coke zero gây tiểu đường, yes, bạn không nghe nhầm tiểu đường. Coke Zero là loại đồ uống không đường. Tuy nhiên, các chất thay thế đường mà nó chứa có thể không phải là một lựa chọn đúng đắn cho những người muốn giảm nguy cơ mắc bệnh tiểu đường. Một nghiên cứu kéo dài 14 năm ở 66 118 phụ nữ đã quan sát thấy uống đồ uống có vị ngọt nhân tạo có thể tăng nguy cơ mắc bệnh tiểu đường loại 2.
 
-![](https://images.spiderum.com/sp-images/fc847dd00baa11ec929d4505f162a47e.jpeg)
+![](assets/chu-nghia-tieu-thu/fc847dd00baa11ec929d4505f162a47e.jpeg)
 
 Nghiên cứu của Brunk đã hệ thống hoá thành một khung phân tích gồm 6 thành tố cảm nhận về đạo đức có thể tác động đến những cảm nhận về đạo đức của một công ty hoặc một nhãn hàng:
 
@@ -54,7 +54,7 @@ Như đã nói ở trên để thúc đẩy nền kinh tế của quốc gia th�
 
 Kích thích những nhu cầu không cần thiết của con người để chúng trở thành những nhu cầu cần thiết. Dần dà, không thể thoát khỏi những nhu cầu vô bổ đó, xem nó như là lối sống hạnh phúc "sở hữu càng nhiều càng hạnh phúc" khiến cho người lao động phải làm việc cật lực hơn bao giờ hết để đáp ứng như nhu cầu được xem là cơ bản.
 
-![](https://images.spiderum.com/sp-images/07d97e100bab11ec929d4505f162a47e.jpeg)
+![](assets/chu-nghia-tieu-thu/07d97e100bab11ec929d4505f162a47e.jpeg)
 
 Tại Trung Quốc thị trường hẹn hò nồng nặc mùi chủ nghĩa tiêu thụ hơn bao giờ hết, những mộng tưởng về tình yêu càng nhiều thì càng xoắn vào nhu cầu tài chính bấy nhiêu. Những ứng viên tiềm năng cho các cuộc hẹn hò sắp đặt phải có những giá trị như học vấn, lương bổng, nhà cửa, nghề nghiệp,.. Người bạn đời như một món hàng chỉ cần đáp ứng đủ các tiêu chí mà khách hàng đưa ra bạn sẽ được mua về và sử dụng.
 

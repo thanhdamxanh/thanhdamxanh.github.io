@@ -36,7 +36,7 @@ Có 3 chế độ IF phổ biến:
 - **Eat-Stop-Eat**: đơn giản là chọn ra 1 hoặc 2 ngày trong tuần để nhịn ăn hoàn toàn.
 - **Chế độ 5:2**: chỉ nạp vào 500-600 calories vào 2 ngày không liên tiếp nhau, 5 ngày còn lại ăn bình thường.
 
-![img_1](https://images.spiderum.com/sp-images/70d99980c67a11ea8ec05707aff923bc.jpg)
+![img_1](assets/nhin-an-gian-doan/70d99980c67a11ea8ec05707aff923bc.jpg)
 
 ___
 
@@ -62,7 +62,7 @@ Bên cạnh đó, việc dùng bữa sáng cũng không làm tăng khả năng t
 
 Vậy thì đã rõ, không có gì "đặc biệt" về bữa sáng cả. Dùng bữa sáng hay không là tùy vào thói quen của bạn. Nếu bạn tự tin là một người sống lành mạnh, tập thể dục đều đặn thì việc bỏ bữa sáng không có ảnh hưởng xấu tới sức khỏe đâu nhé. 
 
-![img_2](https://images.spiderum.com/sp-images/0ad470d0c64111ea96484f97c2e6f7ee.jpg)
+![img_2](assets/nhin-an-gian-doan/0ad470d0c64111ea96484f97c2e6f7ee.jpg)
 
 *Bye bữa sáng ༼ つ ಥ_ಥ ༽つ*
 
@@ -108,7 +108,7 @@ Cũng có một báo cáo chưa đáng tin về những phụ nữ mất kinh ng
 
 **Vì những lí do này, các bạn nữ nên cẩn thận với IF, hãy dừng lại khi thấy những dấu hiệu bất thường như việc mất kinh.** **Nếu bạn có vấn đề với khả năng sinh sản và/ hoặc đang cố gắng thụ thai, hãy cân nhắc kỹ IF**. **Kiểu ăn uống này có thể là một ý tưởng tệ nếu bạn đang mang thai hoặc cho con bú.**
 
-**![img_3](https://images.spiderum.com/sp-images/b9dd2e70c7c011ea88d94f91918fb06f.jpg)
+**![img_3](assets/nhin-an-gian-doan/b9dd2e70c7c011ea88d94f91918fb06f.jpg)
 
 *Bữa sáng cho sinh viên :3*
 ___

@@ -17,7 +17,7 @@ Dựa trên nội dung của buổi workshop "Dinh dưỡng ứng dụng trong c
 
 Có 6 nhóm chất dinh dưỡng cần thiết cho cơ thể khỏe mạnh, bao gồm: nước, đường tinh bột (carbohydrates), đạm, chất béo "tốt", vitamin và khoáng chất. Mình sẽ đi qua những điều mà mình thấy thú vị và đáng lưu tâm của từng nhóm chất một.
 
-![](https://images.spiderum.com/sp-images/6f4f69305fb411ec9f65174960ff7f0a.png)
+![](assets/che-do-an/6f4f69305fb411ec9f65174960ff7f0a.png)
 
 #### Nước
 
@@ -29,7 +29,7 @@ Có 2 loại nước mà chúng ta cần nạp vào cơ thể đó là nước t
 
 Hãy chủ động cung cấp nước cho cơ thể trước khi cảm thấy khát, dưới đây là các thời điểm đặc biệt cần uống nước:
 
-![](https://images.spiderum.com/sp-images/8b70f2f05fb411ec9f65174960ff7f0a.png)
+![](assets/che-do-an/8b70f2f05fb411ec9f65174960ff7f0a.png)
 
 #### Đường tinh bột
 
@@ -93,7 +93,7 @@ Axit béo **omega-3** là loại chất béo không bão hòa đặc biệt, gi�
 
 Vitamins và khoáng chất là hai vi chất dinh dưỡng thiết yếu giúp cho cơ thể bạn phát triển và hoạt động bình thường. Có nhiều vitamin, mỗi loại có tác dụng khác nhau với cơ thể, để có thể lựa nhanh thực phẩm và áp dụng vào bữa ăn một cách đơn giản, mình thường lựa chọn thực phẩm theo màu sắc, mỗi màu sắc của thực phẩm sẽ có một tính chất đặc trưng như sau:
 
-![](https://images.spiderum.com/sp-images/a417d4e05fb411ec9f65174960ff7f0a.png)
+![](assets/che-do-an/a417d4e05fb411ec9f65174960ff7f0a.png)
 
 - Trắng: tăng cường hệ miễn dịch
 - Vàng: cải thiện tinh thần (đặc biệt là trái chuối), củng cố độ đàn hồi da.
@@ -108,7 +108,7 @@ Tùy vào giới tính, độ tuổi, mức độ hoạt động, cơ địa,...
 
 Lượng calo từ các chất dinh dưỡng chính:
 
-![](https://images.spiderum.com/sp-images/b8c6c8b05fb411ec9f65174960ff7f0a.png)
+![](assets/che-do-an/b8c6c8b05fb411ec9f65174960ff7f0a.png)
 
 - 1g protein = 4 calories
 - 1g Carbohydrate = 4 calories
@@ -117,7 +117,7 @@ Lượng calo từ các chất dinh dưỡng chính:
 
 Ngoài ra mình có thói quen đọc thông tin dinh dưỡng trên các bao bì sản phẩm để biết được phần nào các thành phần có trong sản phẩm, nếu thấy có xuất hiện hàm lượng chất béo chuyển hoá (**Trans Fat**) > 0g thì mình không dùng.
 
-![](https://images.spiderum.com/sp-images/ed394c305fb411ec9f65174960ff7f0a.png)
+![](assets/che-do-an/ed394c305fb411ec9f65174960ff7f0a.png)
 
 ### 3. Đủ hiểu biết
 
@@ -145,7 +145,7 @@ Ngoài ra, tuyến tụy chính là cơ quan bị ảnh hưởng nhiều nhất 
 
 Chúng ta sẽ có nhiều bữa ăn trong ngày và không phải tất cả các bữa đều được ăn như nhau. Vậy thì giữa các bữa ăn trong ngày có gì khác nhau? Dưới đây là biểu đồ so sánh lượng đường huyết của cơ thể với 2 chế độ ăn khác nhau:
 
-![](https://images.spiderum.com/sp-images/237915a05fb511ec9f65174960ff7f0a.png)
+![](assets/che-do-an/237915a05fb511ec9f65174960ff7f0a.png)
 
 1. Large breakfast: 700kcal vào bữa sáng, 600kcal vào bữa trưa và 200kcal vào buổi tối
 2. Large dinner: 200kcal vào bữa sáng, 600kcal vào bữa trưa và 700kcal vào buổi tối
@@ -154,7 +154,7 @@ Việc ăn nhiều vào buổi sáng giúp duy trì lượng đường huyết �
 
 Bữa sáng - bữa ăn quan trọng nhất trong ngày và thường bị thế hệ "gen Z" chúng ta bỏ qua nhiều nhất. Dưới đây là biểu đồ so sánh lượng đường huyết của cơ thể có ăn sáng (màu xanh) và cơ thể không ăn sáng (màu đỏ):
 
-![](https://images.spiderum.com/sp-images/3e4178005fb511ec9f65174960ff7f0a.png)
+![](assets/che-do-an/3e4178005fb511ec9f65174960ff7f0a.png)
 
 Sau khi chúng ta thức dậy, cơ thể cần một lượng năng lượng để có thể hoạt động một cách hiệu quả và bữa sáng sẽ giải quyết vấn đề đó. Ngoài ra, từ biểu đồ ta có thể thấy rằng việc ăn sáng giúp duy trì lượng đường huyết của cơ thể ổn định hơn và thấp hơn từ lúc ăn trưa cho đến hết ngày. Nhiều nghiên cứu cho thấy bữa ăn sáng có ảnh hướng lớn đến sức khỏe, giúp chúng ta tập trung và ghi nhớ tốt hơn, làm giảm lượng cholesterol "xấu" và ít có nguy cơ gặp các vấn đề về tim mạch, tiểu đường hoặc thừa cân.
 
@@ -162,15 +162,15 @@ Sau khi chúng ta thức dậy, cơ thể cần một lượng năng lượng đ
 
 Số lượng bữa ăn và lượng thức ăn nạp vào cơ thể cũng là một yếu tố quyết định trong quá trình xây dựng cơ thể cân đối. Từ xưa đến nay, người Việt Nam chúng ta thường chỉ chú trọng đến 3 bữa ăn chính: sáng, trưa và chiều (hoặc tối), thói quen này lâu ngày dẫn đến tuyến tụy của chúng ta sẽ không được khỏe. Hiểu một cách đơn giản thì sau khi chúng ta ăn, đường huyết sẽ tăng cao và sau đó chúng ta làm việc, lượng đường huyết sẽ giảm xuống dần tới mức rất thấp cho đến bữa ăn kế tiếp (như 2 biểu đồ vừa nãy cho thấy). Khi các bữa ăn của chúng ta cách nhau một khoảng thời gian dài như vậy dẫn đến độ chênh lệch giữa đường cao và đường thấp rất lớn, bắt buộc tuyến tụy phải tiết ra một lượng lớn glucagon hoặc insulin để điều hòa đường huyết lại mức cân bằng. Khi chúng ta chia nhỏ bữa ăn hoặc có các bữa phụ xen kẽ thì biên độ dao động của đường huyết sẽ nhỏ, tuyến tụy cũng không cần phải hoạt động quá "vất vả" để điều hòa đường huyết, nhờ vậy mà "tuổi thọ" của tuyến tụy sẽ được kéo dài hơn. Số lượng bữa ăn tiêu chuẩn trong ngày thường là 5-6 bữa (theo tiêu chuẩn của hội Eat Clean Việt Nam).
 
-![](https://images.spiderum.com/sp-images/4d5380405fb511ec9f65174960ff7f0a.png)
+![](assets/che-do-an/4d5380405fb511ec9f65174960ff7f0a.png)
 
 Gợi ý các món ăn cho bữa phụ :
 
-![](https://images.spiderum.com/sp-images/58d583f05fb511ec9f65174960ff7f0a.png)
+![](assets/che-do-an/58d583f05fb511ec9f65174960ff7f0a.png)
 
 Sử dụng tỉ lệ bữa ăn tiêu chuẩn (1/2 rau, 1/4 đạm, 1/4 tinh bột "tốt") để kiểm soát lượng thức ăn nạp vào cơ thể.
 
-![](https://images.spiderum.com/sp-images/64994b905fb511ec9f65174960ff7f0a.png)
+![](assets/che-do-an/64994b905fb511ec9f65174960ff7f0a.png)
 
 Đối với Việt Nam chúng ta, gạo trắng chính là nguồn cung cấp tinh bột chính cho cơ thể trong các bữa ăn bởi lẽ từ ngàn đời nay, cây lúa đã gắn bó với con người, làng quê Việt Nam đồng thời cũng trở thành tên gọi cho một nền văn minh - nền văn minh lúa nước. Tuy nhiên, gạo trắng mà chúng ta ăn hàng ngày thuộc nhóm tinh bột "xấu", đã bị mất đi khá nhiều các dưỡng chất. Để tối ưu lượng dinh dưỡng trong bữa ăn hàng ngày và giảm nguy cơ mắc bệnh tiểu đường loại 2, bệnh tim mạch, béo phì,... chúng ta nên thay gạo trắng bằng các loại thực phẩm thuộc nhóm tinh bột "tốt" như các loại ngũ cốc nguyên cám, gạo lứt, gạo đen, gạo đỏ,... Đối với đạm, nếu ăn thịt thì các bạn nên ưu tiên thịt trắng và hãy cố gắng đa dạng các loại rau - củ - quả nạp vào cơ thể. Ngoài ra bạn cũng nên nạp một lượng hạt bằng ngón tay cái để bổ sung chất béo lành mạnh nhé.
 
@@ -205,7 +205,7 @@ Kết quả của một cơ thể cân đối, khỏe mạnh đến từ:
 - 80% thực phẩm bạn ăn
 - 20% cách thức bạn vận động
 
-![](https://images.spiderum.com/sp-images/843dba805fb511ec9f65174960ff7f0a.png)
+![](assets/che-do-an/843dba805fb511ec9f65174960ff7f0a.png)
 
 Mình không bao giờ bó buộc bản thân vào một chế độ ăn nghiêm ngặt nào cả, bên cạnh phần lớn các bữa ăn "healthy" thì mình vẫn "quẩy" nhiệt tình ở các buổi ăn chơi hoặc những lần nuông chiều bản thân, tiêu thụ các loại thực phẩm không "healthy" cho lắm. Điều này sẽ giúp cho tâm trạng của mình dễ chịu hơn, không quá cầu kỳ trong ăn uống, lâu dần hình thành được thói quen ăn uống tốt, có lợi cho sức khỏe.
 

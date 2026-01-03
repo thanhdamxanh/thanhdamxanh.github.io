@@ -21,10 +21,6 @@ Nhờ lối sống tối giản này, mình có thể hiểu được thực s�
 
 Trước khi viết bài này thì mình có ghé qua 1 blog và xem 1 vài video dạy cách hướng dẫn tiết kiệm. Mình thấy cũng có khá nhiều app hay ho hay cả những template excel có sẵn giúp cho bạn có thể điền vào nữa. Theo kinh nghiệm của mình thì bạn nên làm điều này hằng ngày, tránh để cuối tuần vì mình sẽ chằng thể nào nhớ nổi mình đã tiêu những gì từ đầu tuần cả. Với lại việc ghi chép càng nhanh, càng đơn giản càng tốt, vì nếu mất thời gian và cầu kì có thể sẽ khiến mình hơi nản, và gây ra lười đó.
 
-![No alt text provided for this image](https://media-exp1.licdn.com/dms/image/C5612AQF-OOtdD4coGA/article-inline_image-shrink_1500_2232/0/1609351466423?e=1614816000&v=beta&t=QunWFjPJ-QF0n-x_dpO4ix70CKl_YhHceiY2XlwQa-8)
-
-_Đây là bản note mình đã chi tiêu những gì trong đầu tháng 12 này. Mình chỉ dành 1-2 phút cho việc này thôi nên mình viết không dấu hay sai chính tả khá nhiều, vì mục đích là nhanh và chỉ là để mình hiểu, keep track thui mà ^^_
-
 Sau đó mình sẽ tổng kết lại chi tiêu theo tháng. Mình sẽ biết được là tháng này mình tiêu bao nhiêu, mình kiếm được bao nhiêu tiền, mẹ cho mình bao nhiêu tiền (mình vẫn còn là sinh viên nên vẫn được mẹ trợ cấp hằng tháng hehe). Rồi từ những khoản đã tiêu thì mình cũng tổng kết được là khoản tiền nào mình đã tiêu hợp lí, khoản tiền nào không, sau đó ghi ra để rút kinh nghiệm cho tháng sau. Cũng nhờ việc này mà mình có thể kiểm soát được chi tiêu của mình rất tốt nữa. Mình nghĩ nếu mới bắt đầu bạn cũng chỉ nên tạo thói quen này thôi là cũng đủ rồi.
 
 ## 3. Mở 1 tài khoản tiết kiệm điện tử

@@ -8,7 +8,7 @@ Có nhiều bạn muốn tối giản, nhưng không biết tối giản quần 
 
 Hi vọng nội dung dưới đây sẽ giải đáp được những câu hỏi trên nhé.
 
-![](http://life30.vn/wp-content/uploads/2018/09/Messy_Wardbrobe_2-768x507.jpg)
+![](assets/toi-gian-quan-ao/Messy_Wardbrobe_2-768x507.jpg)
 
 Những thứ đầu tiên cần chuẩn bị khi lọc quần áo chính là TINH THẦN và THỜI GIAN. Đối với phụ nữ, tối giản quần áo là công việc không hề đơn giản. Thật vậy, không đùa đâu các bạn ạ. Đây là công việc đòi hỏi tập trung cao độ, các nơ ron thần kinh sẽ phải làm việc hết công suất đấy. Công việc này cũng sẽ khá tốn thời gian, nên hãy dành nguyên 1 hoặc 2 ngày nghỉ cho nó nhé. 
 
@@ -52,7 +52,7 @@ Vậy đấy, hãy hành động DỨT KHOÁT, QUYẾT ĐOÁN haha. Nghe có v�
 
 Cứ làm như vậy đi. Và sau 1 ngày dọn dẹp, tủ đồ của bạn sẽ vơi đi đáng kể đấy. 
 
-![](http://life30.vn/wp-content/uploads/2018/09/120119485-768x631.jpg)
+![](assets/toi-gian-quan-ao/120119485-768x631.jpg)
 
 Những câu hỏi xoắn não khi tối giản quần áo.
 
@@ -74,7 +74,7 @@ Nhưng hiện giờ, tủ quần áo của mình cũng chỉ có 2 màu chủ đ
 
 Bạn cũng có thể giữ tông màu chủ đạo của bạn là Hồng hoặc Tím hoặc Vàng. Nhưng với những màu này, việc kết hợp quần áo và phụ kiện khó khăn hơn Đen và Trắng. Đồng thời, bạn sẽ mất nhiều thời gian và tiền bạc để điều chỉnh nó theo độ tuổi, tính chất công việc v.v…
 
-![](http://life30.vn/wp-content/uploads/2018/09/minimal-capsule-wardrobe-spring-summer-capsule-wardrobe-travel-capsule-minimalist-wardrobe-768x512.jpg)
+![](assets/toi-gian-quan-ao/minimal-capsule-wardrobe-spring-summer-capsule-wardrobe-travel-capsule-minimalist-wardrobe-768x512.jpg)
 
 Trên đây là một số chia sẻ của mình về việc tối giản quần áo. Có thể chưa đầy đủ, mình sẽ hoàn thiện hơn trong những bài viết sau.
 

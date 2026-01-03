@@ -5,7 +5,7 @@
 
 Mình bắt đầu biết đến và bị ảnh hưởng bởi lối sống tối giản được khoảng 2 năm. Bởi nó là một "lối sống" nên đúng là chẳng thể ngày một ngày hai mà thay đổi được. Mình đã xem nhiều, đọc nhiều và có lẽ vài tháng gần đây, bắt đầu vào giai đoạn ngấm.
 
-![img_0](https://images.spiderum.com/sp-images/2ee721e06b9511ea92201fdbbb75e5fe.png)
+![img_0](assets/toi-gian-do-dung/2ee721e06b9511ea92201fdbbb75e5fe.png)
 
 _Ảnh minh họa_
 
@@ -15,7 +15,7 @@ Dưới đây là 3 thứ mình đã bỏ đi đầu tiên. Thật tiếc vì kh
 
 Có thể khẳng định rằng, nếu nói về số lượng, thì tủ quần áo của mình chỉ nằm ở mức trung bình so với tủ đồ của các chị em. Nhưng gần đây mình nhận ra chừng ấy đã là quá nhiều. Nó khiến mỗi lần mở tủ ra, mình như ngộp thở, và mỗi lần sắp xếp lại tủ quần áo chỉ khiến mình đau đầu chóng mặt (cái này là đúng nghĩa đen luôn😰).
 
-![img_1](https://images.spiderum.com/sp-images/66f247606b9311eaacd949e1e81c4324.png)
+![img_1](assets/toi-gian-do-dung/66f247606b9311eaacd949e1e81c4324.png)
 
 _Ảnh minh họa_
 
@@ -27,7 +27,7 @@ Tất nhiên trong ngày một, ngày hai, mình mới chỉ có thể bỏ đ�
 
 Phần lớn những quyền sách mình mua trước kia là vì cái tên, hoặc cái bìa sách, hoặc thấy người khác đọc thì mua. Mình mua rất nhiều cuốn sách mà sau đó nhận ra không hợp với bản thân, nhưng vẫn giữ mãi vì việc "sưu tầm" đồ đạc đã thành sở thích. Đồ đạc khiến mình cảm thấy đủ đầy, bớt đơn độc 😖 kiểu vậy đó.
 
-![img_2](https://images.spiderum.com/sp-images/6ee928806b9311ea9f290baee2981983.png)
+![img_2](assets/toi-gian-do-dung/6ee928806b9311ea9f290baee2981983.png)
 
 _Ảnh minh họa_
 
@@ -39,7 +39,7 @@ Tuy mình không ở trường hợp các bạn thích đọc và sưu tầm sá
 
 Mình đã quyết định bỏ đi những món quà lưu niệm không còn nhiều ý nghĩa. Mình có rất nhiều món đồ như vậy, toàn là các món đồ để trang trí, không có giá trị sử dụng. Vậy nên trước giờ mình bỏ đi thì không nỡ, mà để đó thì không có tác dụng gì ngoài hay bám bụi. 
 
-_![img_3](https://images.spiderum.com/sp-images/762e45d06b9311eab73c73ba7b658109.png)_
+_![img_3](assets/toi-gian-do-dung/762e45d06b9311eab73c73ba7b658109.png)_
 
 _Ảnh minh họa_
 
@@ -47,7 +47,7 @@ Một món đồ bỏ đi hay giữ lại, mình cân nhắc dựa trên cảm x
 
 Với những món đồ còn mới, giá trị sử dụng cao, mình thường đăng thanh lý trên ứng dụng **Get it,** với các món cũ hơn và dễ sử dụng (như áo phông, quần jean,...) mình thường mang **quyên góp tại các tủ đồ từ thiện** (Các bạn có thể tìm thông tin trên facebook nhé, ở Hà Nội có rất nhiều tủ đồ như vậy). 
 
-![img_4](https://images.spiderum.com/sp-images/f57632306b9311ea88a1bfebe093dc53.png)
+![img_4](assets/toi-gian-do-dung/f57632306b9311ea88a1bfebe093dc53.png)
 
 _Ảnh minh họa_
 
