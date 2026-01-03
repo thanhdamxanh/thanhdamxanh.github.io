@@ -1,0 +1,1 @@
+# Tối giản đồ công nghệ

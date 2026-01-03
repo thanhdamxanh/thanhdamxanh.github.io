@@ -1,39 +1,14 @@
----
-hide:
-  - navigation
-  - toc
----
+# Trang chủ
 
-# Đơn giản hóa
+Đây là một trang về lối sống thanh đạm (frugal hoặc "tiết kiệm"), tối giản cũng như không rác thải (zero-waste) và chống chủ nghĩa tiêu dùng (anti-consumerism)
 
-Đây là một trang về lối sống "thanh đạm" (frugal), lối sống mà chúng ta thực sự cân nhắc xem chúng ta muốn gì và không muốn gì. Nó không chỉ dừng lại ở việc “buông bỏ” những thứ không cần thiết mà còn là việc “đón chào” thêm những điều có giá trị đến với cuộc sống của mình.
+Lối sống *thanh đạm* (frugality) có thể hiểu là khi ta cân nhắc, tự nhận thức được những gì ta đang có, và sử dụng chúng một cách thật thông minh cũng như có mục đích rõ ràng (Frugality is the mental approach we each take when considering our resource allocations. It is about understanding the resources that we have, and spending them wisely and deliberately.).
 
-Trang này được xây dựng như một khu Tiếng Việt cho [r/Frugal](https://old.reddit.com/r/Frugal/) - một Subreddit mà mình khá thích về lối sống này.
+Lối sống *thanh đạm* khá giống với lối sống tối giản. Mục đích của cả hai lối sống về cơ bản đều hướng về một điểm: *Sống giản đơn theo cách của riêng mình*.
 
-!!! info "Nhắc nhỏ"
-    Trang này giống như kiểu một Blog về lối sống này của mình hơn là một trang hướng dẫn về lối sống
+Bởi: Sống tối giản không phải là việc sở hữu thật ít đồ đạc, mà là việc đơn giản hóa cuộc sống và làm cuộc sống trở nên phong phú hơn với những điều khiến bạn hạnh phúc (*Madeleine Olivia*).
 
-### Frugality là gì?
-
-Trích từ [Wiki của r/Frugal](https://reddit.com/r/Frugal/wiki/index):
-
-> Frugality is the mental approach we each take when considering our resource allocations. It is about understanding the resources that we have, and spending them wisely and deliberately.
->
-> Tạm dịch: Lối sống thanh đạm là một hướng tiếp cận về mặt tâm lý khi ta cân nhắc về lượng phân bổ tài nguyên của bản thân. Lối sống này là về sự tự nhận thức được những gì ta đang có, và sử dụng chúng một cách thật thông minh và có mục đích rõ ràng.
-
-Nó khá giống với lối sống tối giản. Mục đích của cả hai lối sống về cơ bản đều hướng về một điểm:
-
-> Sống giản đơn theo cách của riêng mình.
-
-Bởi vì:
-
-> Sống tối giản không phải là việc sở hữu thật ít đồ đạc, mà là việc đơn giản hóa cuộc sống và làm cuộc sống trở nên phong phú hơn với những điều khiến bạn hạnh phúc.
->
-> Madeleine Olivia
-
-### Lối sống tối giản
-
-Mình khá thích phần trích dẫn và dịch này trong bài viết [Minimalism: Lối sống tối giản cho người mới bắt đầu](https://spiderum.com/bai-dang/Minimalism-Loi-song-toi-gian-cho-nguoi-moi-bat-dau-hr2) của [Tee Wanders](https://spiderum.com/nguoi-dung/teewanders) trên Spiderum:
+Một số trích dẫn khá hay.
 
 #### [The Minimalists (Joshua Fields Millburn & Ryan Nicodemus)](https://www.theminimalists.com/minimalism/)
 
@@ -53,14 +28,12 @@ Mình khá thích phần trích dẫn và dịch này trong bài viết [Minimal
 
 *Tạm dịch: Sống tối giản thực chất là việc nhìn nhận lại những việc, những thứ bạn ưu tiên để loại bỏ đi những thứ thừa thãi khác -- đồ đạc, ý tưởng, các mối quan hệ và cả những hoạt động không đem lại ý nghĩa cho cuộc sống của bạn.*
 
-
-### Chia sẻ về lối sống
-
-Trích từ bài đăng [Minimalism: Lối sống tối giản cho người mới bắt đầu](https://spiderum.com/bai-dang/Minimalism-Loi-song-toi-gian-cho-nguoi-moi-bat-dau-hr2) của [Tee Wanders](https://spiderum.com/nguoi-dung/teewanders) trên Spiderum:
-
 > “Với tôi, sống tối giản không chỉ đơn thuần là việc loại bỏ những thứ không cần thiết, hạn chế mua sắm mới và sống với những vật dụng thiết yếu nhất, mà còn là việc tránh xa những suy nghĩ tiêu cực, buông bỏ những mối quan hệ không tốt hay bất cứ điều gì ngăn tôi sống ý nghĩa.
 > 
 > Sống ý nghĩa, theo cách tôi hướng đến là cuộc sống trọn vẹn, an yên và có mục đích. Việc sống một cuộc đời giản đơn giúp tôi có nhiều thời gian và không gian cho những điều quan trọng, như lên kế hoạch cho tương lai, theo đuổi đam mê, ước mơ của mình. Nhưng trên tất cả, chính thực tập lối sống tối giản mà tôi học được cách cho đi, cách yêu thương người khác và yêu thương bản thân mình…”  
 
-Nhớ đọc thử bài viết trên Spiderum nha.
 
+*Nguồn*
+
+- Trích từ [Wiki của r/Frugal](https://reddit.com/r/Frugal/wiki/index):
+- Trích từ [Minimalism: Lối sống tối giản cho người mới bắt đầu](https://spiderum.com/bai-dang/Minimalism-Loi-song-toi-gian-cho-nguoi-moi-bat-dau-hr2) của [Tee Wanders](https://spiderum.com/nguoi-dung/teewanders) trên Spiderum:

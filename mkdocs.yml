@@ -1,22 +1,44 @@
-site_name: Lá cây xanh
-site_description: tôi ăn cắp ý tưởng từ r/Frugal và kha khá chỗ khác
+site_name: Thanh đạm xanh
+site_description: Một trang về lối sống tiết kiệm (frugal) + tối giản, cũng như không rác thải (zero-waste) và chống chủ nghĩa tiêu dùng (anti-consumerism)
 site_author: duykhanh471
 
 nav:
   - 'Trang chủ': 'index.md'
-  - 'Frugal': 'frugal.md'
-  - 'Lối sống tối giản': 'loi-song-toi-gian.md'
-  - 'Ăn uống': 'an-uong.md'
-  - 'Lối sống và nhà cửa':
-    - 'Chống chủ nghĩa tiêu dùng': 'anti-consumption.md'
-    - 'Không chất thải': 'zero-waste.md'
-    - 'Dọn dẹp': 'don-dep.md'
-  - 'Tài chính & Mua sắm':
-    - 'Quản lý tài chính': 'quan-ly-tai-chinh.md'
-    - 'Mua đồ cũ': 'mua-do-cu.md'
-  - 'Môi trường': 'moi-truong.md'
-  - 'Gợi ý sách': 'goi-y-sach.md'
-
+  - 'Tối giản (Minimalism)':
+    - 'Hướng dẫn bắt đầu': 'loi-song-toi-gian.md'
+    - 'Thực hành': 'thuc-hanh-toi-gian.md'
+    - 'Sống tối giản trong thế giới số': 'toi-gian-so.md'
+  - 'Chủ nghĩa tiêu thụ (Consumerism)':
+    - 'Hiểu về chủ nghĩa tiêu thụ': 'chu-nghia-tieu-thu.md'
+    - 'Ảnh hưởng đến biến đổi khí hậu': 'anh-huong-den-bdkh.md'
+    - 'Vấn đề về thời trang nhanh': 'thoi-trang-nhanh.md'
+  - 'Không rác thải (Zero-Waste)':
+    - 'Hướng dẫn bắt đầu': 'khong-rac-thai.md'
+  - 'Lối sống thanh đạm (Frugal Living)':
+    - 'Sống nhiều hơn, cần bớt đi': 'song-nhieu-hon-can-it-di.md'
+    - 'Tiết kiệm': 'loi-song-tiet-kiem.md'
+    - 'Lối sống thanh đạm (Frugality)': 'thanh-dam.md'
+    - 'Nhu cầu và mong muốn': 'nhu-cau-va-mong-muon.md'
+    - 'Quản lý chi tiêu': 'quan-ly-chi-tieu.md'
+  - 'Thói quen 30 ngày': 
+    - 'Tập thiền & Ăn chay': '30-ngay.md'
+  - 'Tiêu thụ hàng ngày: Thực phẩm, quần áo và đồ dùng':
+    - 'Thực phẩm': 'an-uong-toi-gian.md'
+    - 'Quần áo': 'toi-gian-quan-ao.md'
+    - 'Đồ dùng cá nhân': 'toi-gian-do-dung.md'
+    - 'Đồ công nghệ': 'toi-gian-do-cong-nghe.md'
+  - 'Tối giản trên Internet':
+    - 'Một hướng dẫn chắc là đầy đủ về những thứ miễn phí trên Internet': 'huong-dan-ve-nhung-thu-mien-phi-tren-internet.md' 
+  - 'Chuyện ăn uống':
+    - 'Chế độ ăn': 'che-do-an.md'
+    - 'Chuyện ăn chay': 'chuyen-an-chay.md'
+    - 'Nhịn ăn gián đoạn': 'nhin-an-gian-doan.md'
+    - 'Nhịn ăn chữa bệnh': 'nhin-an-chua-benh.md'
+  - 'Tổng hợp & Gợi ý':
+    - 'Sách': 'goi-y-sach.md'
+    - 'Blog': 'goi-y-blog.md'
+    - 'Podcast & Youtube': 'youtube-va-podcast.md'
+    - 'Tìm hiểu thêm': 'tim-hieu-them.md'
 
 theme:
   palette:
@@ -39,7 +61,6 @@ theme:
         name: Switch to light mode
 
   features:
-    - navigation.tabs
     - navigation.sections
     - toc.follow
     - search.highlighting
